@@ -1,0 +1,44 @@
+body{
+  font-family:Arial,Sans-serif;
+  background:#faecc7;
+  color:#2b528a;
+  margin:0px;
+  text-align:center;
+}
+#banner{
+  width:100%;
+  hight:auto;
+}
+#content{
+  background-color:#ebb93b;
+  text-align:center;
+}
+table{
+  width:100%;
+    border-collapse:collapse;
+  background:white;
+  margin-top:10px;
+}
+td , th {
+  border:solid;
+  padding:15px;
+}
+th{
+  background:#faecc7;
+}
+section{
+  padding:20px;
+}
+button{
+  margin-top:10px;
+}
+#name{
+   margin-top:10px;
+}
+#email{
+   margin-top:10px;
+}
+#buttom.img{
+  width:40px;
+  hight:auto;
+}
